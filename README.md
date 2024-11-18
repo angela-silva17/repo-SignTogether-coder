@@ -1,8 +1,8 @@
 
-<h2 align="center">SignTogether</h2>
+<h3 align="center">SignTogether</h3>
 
 
-<h4 align="center">Plataforma diseñada para ayudar a las personas interesadas en aprender lenguaje de señas.</h4>
+<h3 align="left">Plataforma diseñada para ayudar a las personas interesadas en aprender lenguaje de señas.</h3>
 
 
 <h3 align="left">Herramientas e idiomas:</h3>
